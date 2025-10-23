@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['App_tk.py'],
+    ['c:\\Users\\maxwi\\OneDrive\\Documentos\\GitHub\\Gerador-de-cartao\\App.py'],
     pathex=[],
     binaries=[],
     datas=[],
