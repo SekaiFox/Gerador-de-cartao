@@ -1,0 +1,5 @@
+streamlit==1.25.0
+pandas==2.2.0
+openpyxl==3.1.2
+pyinstaller==5.12.1
+# Nota: version numbers são sugestões. Ajuste conforme necessário.
